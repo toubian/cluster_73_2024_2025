@@ -35,7 +35,8 @@ I'm really looking forwrd to getting to know you all better - don't hesitate to 
 
 ### office hours
 
-My office hours will be held in two sections as detailed below.* These times are for you to discuss whatever you'd like with me! Feel free to come in groups or alone to talk about class, campus, or just to introduce yourself! You can always shoot me an email or let me know in-person that you'll be stopping by, or just drop in! I'm here first and foremost as a resource for you :)
+My office hours will be held in by appointment. Sign up at the link below. I'm here first and foremost as a resource for you :)
+[calendly.com/toubian](calendly.com/toubian)
 
 **Tuesday**
 
