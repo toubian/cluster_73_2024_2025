@@ -35,22 +35,8 @@ I'm really looking forwrd to getting to know you all better - don't hesitate to 
 
 ### office hours
 
-My office hours will be held in by appointment. Sign up at the link below. I'm here first and foremost as a resource for you :)
-[calendly.com/toubian](calendly.com/toubian)
-
-**Tuesday**
-
-- *When:* 12:15 – 1:45pm
-
-- *Where:* [School of Information Studies](https://maps.app.goo.gl/e6AVMX5Zuw4bwSb19) 2nd floor common area
-
-**Thursday**
-
-- *When:* 12:00 – 1:30pm
-
-- *Where:* [Moore Hall](https://maps.app.goo.gl/nPqRzqAWFnmp5b999) basement common area
-
-*If these times ever change I'll let you know by sending out a Bruinlearn/Canvas announcement and announcing it in section (if possible). 
+My office hours will be held by appointment. Sign up at the link below. I'm here first and foremost as a resource for you :)
+[calendly.com/toubian](calendly.com/toubian) 
 
 ### communication
 
