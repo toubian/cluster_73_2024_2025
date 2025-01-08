@@ -35,7 +35,7 @@ I'm really looking forwrd to getting to know you all better - don't hesitate to 
 
 ### office hours
 
-My office hours will be held by appointment. Sign up at the link below. I'm here first and foremost as a resource for you :)
+My office hours will be held by appointment. Sign up at the link below. There are *both* Zoom and In-Person options usually available. I'm here first and foremost as a resource for you :)
 [calendly.com/toubian](calendly.com/toubian) 
 
 ### communication
