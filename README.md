@@ -104,7 +104,7 @@ For a list of UCLA Campus Resources for Student Support please see [this list](h
 
 2. **Attend Lecture and Section.** Lecture and section are the main ways that we operate as a community. Lecture meetings are where we learn the the values, concepts, goals, and ideas that drive our class, and therefore are where we work out how and why we work. Section allows us to interpret and understand those values, concepts, goals, and ideas personally. Without these meetings, we become disjointed and miss out on each others perspectives. If you are not going to make a discussion section or lecture, please [email](toubian@ucla.edu) me. 
 
-3. **Respect others and their ideas**. We trust and depend on you to have meaningful discussions in section. Your TAs and Professors care for the class as a whole, while students care for the work, each other, and themselves. These discussions are integral to *everyone's* success in this cluster. When listening, respect your classmates by doing so quietly. Allow for them to express their ideas freely, and give them grace in explaining what they mean/think/feel. When speaking, do so with the intention of contributing positively to the discussion. Call upon course concepts and readings to help ground your ideas. Exploratory conversation is encouraged! Additionally, be cognizant of those who have not yet spoken if this is your 2nd+ time speaking in section. We are all learning from each other. The beauty of discussion section is that it is dedicated time for us to practice this learning. Give your classmates the benefit of the doubt, and when unsure *ask questions*. You are always welcome to check in with me, but you're here because you're smart and can figure things out so try that first. Mistakes will be made. That’s cool. We admit our mistakes and we communicate them to others so that mistakes aren't repeated and then we move on.
+3. **Respect others and their ideas**. We trust and depend on you to have meaningful discussions in section. Your TAs and Professors care for the class as a whole, while students care for the work, each other, and themselves. These discussions are integral to *everyone's* success in this cluster. When listening, respect your classmates by doing so quietly. Allow for them to express their ideas freely, and give them grace in explaining what they mean/think/feel. When speaking, do so with the intention of contributing positively to the discussion. Call upon course concepts and readings to help ground your ideas. Exploratory conversation is encouraged! We are all learning from each other. The beauty of discussion section is that it is dedicated time for us to practice this learning. Give your classmates the benefit of the doubt, and when unsure *ask questions*. You are always welcome to check in with me, but you're here because you're smart and can figure things out, so try that first! Mistakes will be made. That’s cool. We admit our mistakes and we communicate them to others so that the same mistakes aren't repeated and then we move on.
 
 4. **Take care of each other, and yourself**. When you first start, work in groups so other classmates are there to answer questions or lend a hand. If you notice your classmates are struggling, provide whatever support you can, or tell someone that you think can help them. Listen to each other or respect each others desire for quiet when we need it. Students are always encouraged to speak their mind and communicate their concerns/questions. You can always bring me in to provide concrete support if you or another classmate requires it.
 
@@ -128,7 +128,7 @@ If I can't help you (or if you feel the need to go all the way to the top) your 
 Externally, the lovely folks in the the academic counselling unit of the College of letters and Science can help you with most other things. They can be reached through Message Ceter on MyUCLA. 
 
 
-### Katherine and Alexandra are also available to you!
+#### Katherine and Alexandra are also available to you!
 
 Here is their information:
 
@@ -143,7 +143,7 @@ Here is their information:
 [Schedule an Appointment](https://calendar.library.ucla.edu/appointments/gamboa)
 
 
-#### Supporting Undergraduate Research
+### Supporting Undergraduate Research
 
 * Undergraduate Research Fellows Program (Due October 14 – November 14)[link](http://sciences.ugresearch.ucla.edu/programs-and-scholarships/urfp)
 
@@ -155,6 +155,6 @@ Here is their information:
 
 * LAEP [link](https://financialaid.ucla.edu/special-aid-programs/learning-aligned-education-program)
 
-## final note
+#### final note
 
 This syllabus may be updated to better meet our needs. Check Canvas and your email for updates.
