@@ -1,4 +1,9 @@
-# syllabus
+# Cluster 73A: TA Section Syllabus  
+**Fall 2025**   
+**Instructor:** Sophia Toubian  
+**Email:** [toubian@ucla.edu](mailto:toubian@ucla.edu)  
+**Office Hours:** By appointment via [Calendly](https://calendly.com/toubian) (Zoom or in-person)
+
 
 The following is the *TA* version of our syllabus for sections 1A and 1B - not the official course syllabus. It may contain errors and may need improved citation. Please email [sophia](toubian@ucla.edu) to suggest any changes.
 
@@ -82,8 +87,14 @@ Our objectives in section are as follows.
 
  - **Everyone should add *and* take something, every single section**.  Make sure you're doing your best to add to the conversation and take a new thought away every time. tl;dr: *participate and pay attention*
 
- - **Every second together counts**.  Make the most of the time you have with your fellow students. An hour and 50 minutes may seem like a long time, but we've got a lot to fit in every week. Your peers are your greatest resource in expanding your understanding and ability to learn. 
+ - **Every second together counts**.  Make the most of the time you have with your fellow students. An hour and 50 minutes may seem like a long time, but we've got a lot to fit in every week. Your peers are your greatest resource in expanding your understanding and ability to learn.
 
+
+**Please bring:**
+- Pen + paper (ideally a dedicated notebook)  
+- Laptop  
+- Weekly readings (online or printed)  
+- Your brain operating on at least 7 hours of sleep and at 75% capacity  
 
 ## section guidelines
 
@@ -117,6 +128,21 @@ If I can't help you (or if you feel the need to go all the way to the top) your 
 Externally, the lovely folks in the the academic counselling unit of the College of letters and Science can help you with most other things. They can be reached through Message Ceter on MyUCLA. 
 
 
+### Katherine and Alexandra are also available to you!
+
+Here is their information:
+
+**Katherine Kapsidelis**  
+*Cluster 73 Librarian*  
+[kapsidelis@library.ucla.edu](mailto:kapsidelis@library.ucla.edu)  
+[Schedule an Appointment](https://calendar.library.ucla.edu/appointments/kapsidelis/virtual)
+
+**Alexandra Gamboa**  
+*Cluster 73 PRWS*  
+[alexgamboa@g.ucla.edu](mailto:alexgamboa@g.ucla.edu)  
+[Schedule an Appointment](https://calendar.library.ucla.edu/appointments/gamboa)
+
+
 #### Supporting Undergraduate Research
 
 * Undergraduate Research Fellows Program (Due October 14 – November 14)[link](http://sciences.ugresearch.ucla.edu/programs-and-scholarships/urfp)
@@ -129,3 +155,6 @@ Externally, the lovely folks in the the academic counselling unit of the College
 
 * LAEP [link](https://financialaid.ucla.edu/special-aid-programs/learning-aligned-education-program)
 
+## final note
+
+This syllabus may be updated to better meet our needs. Check Canvas and your email for updates.
