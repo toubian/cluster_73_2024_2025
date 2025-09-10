@@ -4,13 +4,13 @@ The following is the *TA* version of our syllabus for sections 1A and 1B - not t
 
 ### your ta
 
-Hi! I'm Sophia Toubian, a 2nd year PhD student in the Information Studies department. I was also at UCLA for undergrad (double bruin!!) studying Political Science and Society + Genetics. 
+Hi! I'm Sophia Toubian, a 3rd year PhD student in the Information Studies department. I was also at UCLA for undergrad (double bruin!!) studying Political Science and Society + Genetics. 
 
-My research focuses on using network science to look at how we transmit and define "data". 
+My research focuses on how scientific ideas change when shared with the public, using both qualitative and computational methods. 
 
 I was born in London and raised between the UK and Los Angeles, in my spare time I love to surf, climb, play basketball, and do pottery! (or if it's finals week: watch movies, reread Anne Carson, and eat too much mac and cheese) 
 
-I'm really looking forwrd to getting to know you all better - don't hesitate to reach out, even to just ask abour campus or say hi! My email is **[toubian@ucla.edu](toubian@ucla.edu)**. 
+I'm really looking forwrd to getting to know you all better - don't hesitate to reach out, even to just ask about campus or say hi! My email is **[toubian@ucla.edu](toubian@ucla.edu)**. 
 
 ##	__logistics__
 
@@ -24,11 +24,11 @@ I'm really looking forwrd to getting to know you all better - don't hesitate to 
 ### section
 **When:** 
 
-- 1E: Friday from 10-11:50am 
+- 1A: Friday from 10-11:50am 
 
-- 1F: Friday from 12-1:50pm
+- 1B: Friday from 12-1:50pm
 
-**Where:** Covel Commons, Room 225
+**Where:** [Public Affairs](https://maps.app.goo.gl/crf3TR8zpsRJu4KG8), Room 1343
 
 **Who:** You! Me! Your classmates! No professors!
 
@@ -42,9 +42,11 @@ My office hours will be held by appointment. Sign up at the link below. There ar
 
 Emailing me at **[toubian@ucla.edu](toubian@ucla.edu)** is the best way to reach me. 
 
-I'll do my best to reply within **24 hours** on weekdays, and before Monday morning on weekends. If your email is urgent (missing section, etc.) please have "urgent" as the first word in your subject line. Please also include your section (1E or 1F) somewhere in your email (subject line is best!) as well as your full name. 
+I'll do my best to reply within **24 hours** on weekdays, and before Monday morning on weekends. If your email is urgent (missing section, etc.) please have "urgent" as the first word in your subject line (don't feel like it's an overreaction, if you need my attention more immediately this is how to get it!). Please also include your section (1A or 1B) somewhere in your email (subject line is best!) as well as your full name. 
 
 As always, feel free to reach out with any questions and I'll do my best to get back to you. The cluster programs are meant to fucntion as an introduction to UCLA as a whole and I hope to help facilitate that for you!
+
+As an aside, I know you can send me messages on Canvas/Bruinlearn - **please don't**, I won't get them in a timely manner!
 
 ## __objectives__ 
 Our objectives in section are as follows.
@@ -106,20 +108,20 @@ Internally in Cluster 73A, I am your first stop for any information or issue, wh
 
 If I can't help you (or if you feel the need to go all the way to the top) your professors and head TA can be reached by email at: 
 
-- Sally Gibbons (Coordinator) [sally.gibbons4@gmail.com ](sally.gibbons4@gmail.com )
+- Sally Gibbons (Coordinator/Professor) [sally.gibbons4@gmail.com ](sally.gibbons4@gmail.com )
 
-- Efrain Kristal (Professor) [kristal@humnet.ucla.edu](kristal@humnet.ucla.edu)
+- Barbara Knowlton (Professor) [bknowlto@ucla.edu](bknowlto@ucla.edu)
 
-- Jason Araújo (Head TA) [jasonaraujo@ucla.edu](jasonaraujo@ucla.edu)
+- Sophia Lencioni (Head TA) [slencioni@g.ucla.edu](slencioni@g.ucla.edu)
 
 Externally, the lovely folks in the the academic counselling unit of the College of letters and Science can help you with most other things. They can be reached through Message Ceter on MyUCLA. 
 
 
 #### Supporting Undergraduate Research
 
-* Undergraduate Research Fellows Program (Due October 15 – November 15)[link](http://sciences.ugresearch.ucla.edu/programs-and-scholarships/urfp)
+* Undergraduate Research Fellows Program (Due October 14 – November 14)[link](http://sciences.ugresearch.ucla.edu/programs-and-scholarships/urfp)
 
-* Library Undergrad research awards (Due April 1st) [link](https://www.library.ucla.edu/research-teaching-support/support-students/showcasing-student-achievement/library-prize-undergraduate-research) humanities, social science, and arts [here](http://hass.ugresearch.ucla.edu/scholarships/urfp/)
+* Library Undergrad research awards (Due around April 1st) (students from this cluster have won this in the past!) [link](https://www.library.ucla.edu/research-teaching-support/support-students/showcasing-student-achievement/library-prize-undergraduate-research) humanities, social science, and arts [here](http://hass.ugresearch.ucla.edu/scholarships/urfp/)
 
 * Summer Programs for Undergraduate Research (various due dates, early spring) [link](https://grad.ucla.edu/admissions/diversity/summer-programs-for-undergraduate-research-spur/)
 
