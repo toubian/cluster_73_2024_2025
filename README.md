@@ -1,6 +1,6 @@
 # syllabus
 
-The following is the *TA* version of our syllabus for sections 1E and 1F - not the official course syllabus. It may contain errors and may need improved citation. Please email [sophia](toubian@ucla.edu) to suggest any changes.
+The following is the *TA* version of our syllabus for sections 1A and 1B - not the official course syllabus. It may contain errors and may need improved citation. Please email [sophia](toubian@ucla.edu) to suggest any changes.
 
 ### your ta
 
