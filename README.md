@@ -1,5 +1,5 @@
-# Cluster 73A: TA Section Syllabus  
-**Fall 2025**
+# Cluster 73B: TA Section Syllabus  
+**Winter 2026**
 **Instructor:** Sophia Toubian  
 **Email:** [toubian@ucla.edu](mailto:toubian@ucla.edu)  
 **Office Hours:** By appointment via [Calendly](https://calendly.com/toubian) (Zoom or in-person)
