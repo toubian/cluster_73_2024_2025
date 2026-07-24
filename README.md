@@ -1,26 +1,26 @@
-# Cluster 73B: TA Section Syllabus  
-**Winter 2026**
+# Cluster 71A: TA Section Syllabus  
+**Fall 2026**
 **Instructor:** Sophia Toubian  
 **Email:** [toubian@ucla.edu](mailto:toubian@ucla.edu)  
 **Office Hours:** By appointment via [Calendly](https://calendly.com/toubian) (Zoom or in-person)
 
 
-The following is the *TA* version of our syllabus for sections 1A and 1B - not the official course syllabus. It may contain errors and may need improved citation. Please email [sophia](toubian@ucla.edu) to suggest any changes.
+The following is the *TA* version of our syllabus for sections __ and __ - not the official course syllabus. It may contain errors and may need improved citation. Please email [sophia](toubian@ucla.edu) to suggest any changes.
 
 ### your ta
 
-Hi! I'm Sophia Toubian, a 3rd year PhD student in the Information Studies department. I was also at UCLA for undergrad (double bruin!!) studying Political Science and Society + Genetics. 
+Hi! I'm Sophia Toubian, a 4th year PhD candidate in the Information Studies department. I was also at UCLA for undergrad (double bruin!!) studying Political Science and Society + Genetics. 
 
-My research focuses on how scientific ideas change when shared with the public, using both qualitative and computational methods. 
+My research focuses on how scientific ideas change when shared with the public, using both qualitative and computational methods. Basically, I study the "vibe" of information. 
 
-I was born in London and raised between the UK and Los Angeles, in my spare time I love to surf, climb, play basketball, and do pottery! (or if it's finals week: watch movies, reread Anne Carson, and eat too much mac and cheese) 
+I was born in London and raised between the UK and Los Angeles, in my spare time I love to surf, climb, watch hockey, play basketball, and do pottery! (or if it's finals week: watch movies, reread Anne Carson, and eat too much mac and cheese) 
 
-I'm really looking forwrd to getting to know you all better - don't hesitate to reach out, even to just ask about campus or say hi! My email is **[toubian@ucla.edu](toubian@ucla.edu)**. 
+I'm really looking forward to getting to know you all better - don't hesitate to reach out, even to just ask about campus or say hi! My email is **[toubian@ucla.edu](toubian@ucla.edu)**. 
 
 ##	__logistics__
 
 ### lecture: 
-**When:** Tuesday and Thursday from 5pm-6:15pm
+**When:** Monday and Wednesday from 12:30pm-1:45pm
 
 **Where:** De Neve Plaza Commons, Building P350 (De Neve Auditorium)
 
@@ -29,11 +29,11 @@ I'm really looking forwrd to getting to know you all better - don't hesitate to 
 ### section
 **When:** 
 
-- 1A: Friday from 10-11:50am 
+- __: __ from __-__m 
 
-- 1B: Friday from 12-1:50pm
+- __: __ from __-__m
 
-**Where:** [Public Affairs](https://maps.app.goo.gl/crf3TR8zpsRJu4KG8), Room 1343
+**Where:** [__](__), Room __
 
 **Who:** You! Me! Your classmates! No professors!
 
@@ -47,7 +47,7 @@ My office hours will be held by appointment. Sign up at the link below. There ar
 
 Emailing me at **[toubian@ucla.edu](toubian@ucla.edu)** is the best way to reach me. 
 
-I'll do my best to reply within **24 hours** on weekdays, and before Monday morning on weekends. If your email is urgent (missing section, etc.) please have "urgent" as the first word in your subject line (don't feel like it's an overreaction, if you need my attention more immediately this is how to get it!). Please also include your section (1A or 1B) somewhere in your email (subject line is best!) as well as your full name. 
+I'll do my best to reply within **24 hours** on weekdays, and before Monday morning on weekends. If your email is urgent (missing section, etc.) please have "urgent" as the first word in your subject line (don't feel like it's an overreaction, if you need my attention more immediately this is how to get it!). Please also include your section (__ or __) somewhere in your email (subject line is best!) as well as your full name. 
 
 As always, feel free to reach out with any questions and I'll do my best to get back to you. The cluster programs are meant to fucntion as an introduction to UCLA as a whole and I hope to help facilitate that for you!
 
@@ -102,11 +102,11 @@ Our objectives in section are as follows.
 
 For a list of UCLA Campus Resources for Student Support please see [this list](https://docs.google.com/document/d/1RC9_vNrYTN9sylZM7HySeh21iTXRzwaUdBdo6_ngg00/edit?usp=sharing) as well as the other resources listed in the course syllabus.
 
-2. **Attend Lecture and Section.** Lecture and section are the main ways that we operate as a community. Lecture meetings are where we learn the the values, concepts, goals, and ideas that drive our class, and therefore are where we work out how and why we work. Section allows us to interpret and understand those values, concepts, goals, and ideas personally. Without these meetings, we become disjointed and miss out on each others perspectives. If you are not going to make a discussion section or lecture, please [email](toubian@ucla.edu) me. 
+2. **Attend Lecture and Section.** Lecture and section are the main ways that we operate as a community. Lecture meetings are where we learn the the values, concepts, goals, and ideas that drive our class, and therefore are where we work out how and why we work. Section allows us to interpret and understand those values, concepts, goals, and ideas personally. Without these meetings, we become disjointed and miss out on each others perspectives. If you are not going to make a discussion section or lecture, please [email me](toubian@ucla.edu). 
 
-3. **Respect others and their ideas**. We trust and depend on you to have meaningful discussions in section. Your TAs and Professors care for the class as a whole, while students care for the work, each other, and themselves. These discussions are integral to *everyone's* success in this cluster. When listening, respect your classmates by doing so quietly. Allow for them to express their ideas freely, and give them grace in explaining what they mean/think/feel. When speaking, do so with the intention of contributing positively to the discussion. Call upon course concepts and readings to help ground your ideas. Exploratory conversation is encouraged! We are all learning from each other. The beauty of discussion section is that it is dedicated time for us to practice this learning. Give your classmates the benefit of the doubt, and when unsure *ask questions*. You are always welcome to check in with me, but you're here because you're smart and can figure things out, so try that first! Mistakes will be made. That’s cool. We admit our mistakes and we communicate them to others so that the same mistakes aren't repeated and then we move on.
+3. **Respect others and their ideas**. We trust and depend on you to have meaningful discussions in section. Your TAs and Professors care for the class as a whole, while students care for the work, each other, and themselves. These discussions are integral to *everyone's* success in this cluster. When listening, respect your classmates by doing so quietly. Allow for them to express their ideas freely, and give them grace in explaining what they mean/think/feel. When speaking, do so with the intention of contributing positively to the discussion. Call upon course concepts and readings to help ground your ideas. Exploratory conversation is encouraged! We are all learning from each other. The beauty of discussion section is that it is dedicated time for us to practice this learning. Give your classmates the benefit of the doubt, and when unsure *ask questions*. You are always welcome to check in with me, but you're here because you're smart and can figure things out, so try that first! Mistakes will be made. That’s cool. We admit our mistakes and communicate them to others if necessary so that the same mistakes aren't repeated and then we move forwards.
 
-4. **Take care of each other, and yourself**. When you first start, work in groups so other classmates are there to answer questions or lend a hand. If you notice your classmates are struggling, provide whatever support you can, or tell someone that you think can help them. Listen to each other or respect each others desire for quiet when we need it. Students are always encouraged to speak their mind and communicate their concerns/questions. You can always bring me in to provide concrete support if you or another classmate requires it.
+4. **Take care of each other, and yourself**. Work in groups so other classmates are there to answer questions or lend a hand. If you notice your classmates are struggling, provide whatever support you can, or tell someone that you think can help them. Listen to each other or respect each others desire for quiet when we need it. Students are always encouraged to speak their mind and communicate their concerns/questions. You can always bring me in to provide concrete support if you or another classmate requires it.
 
 5. **Take breaks**! Studies have shown that taking regular breaks makes you more productive. It’s also important to care for yourself.
 
@@ -115,32 +115,32 @@ For a list of UCLA Campus Resources for Student Support please see [this list](h
 
 ### I need help with something! Who do I ask?
 
-Internally in Cluster 73A, I am your first stop for any information or issue, whether it be technical, structural, or even a little bit silly. Reach me by email at [toubian@ucla.edu](toubian@ucla.edu). 
+Internally in Cluster 71, I am your first stop for any information or issue, whether it be technical, structural, or even a little bit silly. Reach me by email at [toubian@ucla.edu](toubian@ucla.edu). 
 
 If I can't help you (or if you feel the need to go all the way to the top) your professors and head TA can be reached by email at: 
 
-- Sally Gibbons (Coordinator/Professor) [sally.gibbons4@gmail.com ](sally.gibbons4@gmail.com )
+- Michelle Rensel (Coordinator/Professor) [__](__)
 
-- Barbara Knowlton (Professor) [bknowlto@ucla.edu](bknowlto@ucla.edu)
+- ___ __ (Professor) [__](__)
 
-- Sophia Lencioni (Head TA) [slencioni@g.ucla.edu](slencioni@g.ucla.edu)
+- __ __ (Head TA) [__](__)
 
 Externally, the lovely folks in the the academic counselling unit of the College of letters and Science can help you with most other things. They can be reached through Message Ceter on MyUCLA. 
 
 
-#### Katherine and Alexandra are also available to you!
+#### __ and __ are also available to you!
 
 Here is their information:
 
-**Katherine Kapsidelis**  
-*Cluster 73 Librarian*  
-[kapsidelis@library.ucla.edu](mailto:kapsidelis@library.ucla.edu)  
-[Schedule an Appointment](https://calendar.library.ucla.edu/appointments/kapsidelis/virtual)
+**__ __**  
+*Cluster 71 Librarian*  
+[__](__)  
+[Schedule an Appointment](__)
 
-**Alexandra Gamboa**  
-*Cluster 73 PRWS*  
-[alexgamboa@g.ucla.edu](mailto:alexgamboa@g.ucla.edu)  
-[Schedule an Appointment](https://calendar.library.ucla.edu/appointments/gamboa)
+**__ __**  
+*Cluster 71 PRWS*  
+[__](__)  
+[Schedule an Appointment](__)
 
 
 ### Supporting Undergraduate Research
